@@ -1,4 +1,4 @@
-# Energy-consumption-prediction
+# Energy-consumption-prediction using linear regression
 Overview
 This repository contains the code and resources for a project aimed at analyzing and predicting energy consumption patterns. The primary goal of this project is to provide insights into energy usage and develop predictive models that can forecast future consumption based on historical data.
 
